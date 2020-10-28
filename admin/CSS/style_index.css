@@ -1,0 +1,32 @@
+html{
+	text-align: center;
+}
+body{
+	text-align: center;
+
+}
+header img{
+	width: 100%;
+}
+
+       header ul {
+        list-style-type: none;
+        border: 2px ;
+        text-align: center;
+        background-color: #2d2d2d;
+      }
+      header li { display: inline; }
+       header a {
+        color: #b9eccd;
+        text-decoration: none;
+        font-weight: bold;
+        display: inline-block;
+        
+      }
+      header a:hover{
+         color: #2d2d2d;
+          background-color: #b9eccd;
+     }
+h1{
+	text-align: center;
+}
